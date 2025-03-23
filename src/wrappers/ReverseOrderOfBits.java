@@ -16,7 +16,7 @@ public class ReverseOrderOfBits {
         int reversedInteger = Integer.parseInt(reversedBinary, 2);
 
         System.out.println("Entero original: " + integer);
-        System.out.println("Representacion en binario: " + binaryRepresentation);
+        System.out.println("Representación en binario: " + binaryRepresentation);
         System.out.println("Binario invertido: " + reversedBinary);
         System.out.println("Entero invertido: " + reversedInteger);
     }
